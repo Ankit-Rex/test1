@@ -3,7 +3,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 public class FunctionPerform  {
-	//we use Jdbc here to use db
+	//we use Jdbc here to use 
 Connection con=null;
 PreparedStatement ps=null;
 ResultSet rs=null;
@@ -359,3 +359,5 @@ public void deletebook(String bid) {
 	}
 }
 }
+
+//lawda 
